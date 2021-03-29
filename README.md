@@ -1,2 +1,2 @@
-# Infrared-video-super-resolution-with-3D-convolution-Spatio-temporal-fusion-network
-This repository is an official PyTorch implementation of the paper “ Infrared video super-resolution with 3D convolution Spatio-temporal fusion network”.
+# Infrared Thermal Imaging Super-resolution via Multiscale Spatio-temporal Feature Fusion Network
+This repository is an official PyTorch implementation of the paper “ Infrared Thermal Imaging Super-resolution via Multiscale Spatio-temporal Feature Fusion Network”.
